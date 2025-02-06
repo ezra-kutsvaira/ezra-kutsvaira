@@ -1,4 +1,5 @@
-## Hi there 👋
+![image](https://github.com/user-attachments/assets/17c96586-de3f-4f41-a36f-b82db43f619e)
+
 
 <!--
 **ezra-kutsvaira/ezra-kutsvaira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
